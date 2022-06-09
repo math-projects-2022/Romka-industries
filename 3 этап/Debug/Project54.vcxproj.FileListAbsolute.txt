@@ -1,0 +1,4 @@
+C:\Users\МЕГА-МОНСТР\source\repos\Project54\Debug\Project54.vcxproj.AssemblyReference.cache
+C:\Users\МЕГА-МОНСТР\source\repos\Project54\Debug\Project54.MyForm.resources
+C:\Users\МЕГА-МОНСТР\source\repos\Project54\Debug\Project54.vcxproj.GenerateResource.cache
+C:\Users\МЕГА-МОНСТР\source\repos\Project54\Debug\Project54.exe
